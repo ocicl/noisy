@@ -4,6 +4,6 @@ Perlin noise for an arbitrary number of dimensions.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/Kevinpgalligan/noisy.git |
-| commit  | 1fdc994                                         |
+| commit  | 0851afd                                         |
 | systems | noisy                                           |
 |---------+-------------------------------------------------|
